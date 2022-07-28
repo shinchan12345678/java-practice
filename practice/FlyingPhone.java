@@ -10,7 +10,7 @@ public class FlyingPhone implements Phone, Flying {
 	}
 
 	public void fly() {
-		System.out.println(minutes + "分間、飛びます。 ");
+		System.out.println(minutes + "分間、飛びます。");
 	}
 
 	public void call(String number) {
